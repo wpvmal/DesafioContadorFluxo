@@ -1,18 +1,3 @@
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+# <span style="font-size:larger;">Santander Bootcamp - Tratamento de Exceptions</span>  
+  
+Projeto desenvolvido pro **Santander Bootcamp** em parceria com a [**Dio.me**](https://www.dio.me/). O objetivo deste projeto é criar um programa simples que trata exceções com dois números digitados pelo usuário. O programa verifica se o segundo número é maior que o primeiro e, em seguida, realiza a subtração do segundo número pelo primeiro. Além disso, é demonstrado o uso de um loop "for" para imprimir cada interação até alcançar o resultado final da subtração.
